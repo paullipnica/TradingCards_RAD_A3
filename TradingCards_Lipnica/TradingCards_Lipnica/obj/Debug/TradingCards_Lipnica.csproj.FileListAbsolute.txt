@@ -1,0 +1,12 @@
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\bin\Debug\TradingCards_Lipnica.exe.config
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\bin\Debug\TradingCards_Lipnica.exe
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\bin\Debug\TradingCards_Lipnica.pdb
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.csproj.AssemblyReference.cache
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.Add.resources
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.Form1.resources
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.Properties.Resources.resources
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.csproj.GenerateResource.cache
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.csproj.CoreCompileInputs.cache
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.exe
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.pdb
+C:\Users\plipn\OneDrive\Desktop\RAD\TradingCards_Lipnica\TradingCards_Lipnica\obj\Debug\TradingCards_Lipnica.Edit.resources
